@@ -57,8 +57,6 @@ A peer-to-peer networking project exploring distributed systems concepts — ins
 
 ---
 
-## 🚧 Work in Progress
-
 🔜 **MCOEgram** — A college-exclusive, Instagram-style platform  
 Features include:
 - Google OAuth restricted to college domain
