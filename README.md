@@ -11,7 +11,7 @@ I'm a passionate software engineer currently studying Computer Engineering, buil
 - 🔭 I build full-stack applications using the **MERN stack** (MongoDB, Express, React, Node.js).  
 - 💡 I focus on clean architecture, scalable design, and practical engineering thinking.  
 - 👨‍💻 I enjoy creating systems that solve real problems — from authentication flows to real-time communication and deployment pipelines.  
-- 📚 I’m actively leveling up in backend engineering, distributed systems, and system design.
+- 📚 I’m actively leveling up in backend engineering,distributed systems, and system design.
 
 ---
 
