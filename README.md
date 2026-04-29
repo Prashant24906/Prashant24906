@@ -2,7 +2,7 @@
 
 Software developer | Backend enthusiast | MERN Full-Stack Projects | Learner in Distributed Systems
 
-I'm a passionate software engineer currently studying Computer Engineering, building real-world applications and digging deep into backend systems, deployment, and cloud development.
+I'm a passionate software engineer currently studying Computer Engineering, building real-world applications and digging deep into backend systems, deployment, and cloud development.  
 
 ---
 
