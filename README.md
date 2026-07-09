@@ -8,7 +8,7 @@ I'm a passionate software engineer currently studying Computer Engineering, buil
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(https://linkedin.com/in/Prashant Narwade)](https://www.linkedin.com/in/prashant-narwade-41a148316/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prashantnrwd@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(https://linkedin.com/in/Prashant Narwade)](https://www.linkedin.com/in/prashant-narwade-41a148316/)
 
 ## 🚀 About Me
 
