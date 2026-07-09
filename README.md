@@ -68,7 +68,7 @@ Feel free to reach out or follow me:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🔗 LinkedIn: [[https://www.linkedin.com/in/prashant-narwade ](https://www.linkedin.com/in/prashant-narwade-41a148316/) ](https://www.linkedin.com/in/prashant-narwade-41a148316/)
+- 🔗 LinkedIn: [[https://www.linkedin.com/in/prashant-narwade ](https://www.linkedin.com/in/prashant-narwade-41a148316/) ]
 - 📧 Email: prashantnrwd@gmail.com  
 - 💼 Live Projects on GitHub
 
