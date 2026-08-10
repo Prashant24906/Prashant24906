@@ -29,8 +29,8 @@ I'm a passionate software engineer currently studying Computer Engineering, buil
   <br/>
   <p align="center">
     <a href="https://github.com/sameer-bagul/">
-      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sameer-bagul&show_icons=true&theme=rose_pine&hide_border=true" />
-      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-bagul&theme=rose_pine&hide_border=true" />
+      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Prashant2496&show_icons=true&theme=rose_pine&hide_border=true" />
+      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant2496&theme=rose_pine&hide_border=true" />
     </a>
   </p>
   <br>
