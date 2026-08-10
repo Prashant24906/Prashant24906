@@ -6,9 +6,12 @@ I'm a passionate software engineer currently studying Computer Engineering, buil
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Prashant24906&theme=dark)](https://git.io/streak-stats)
+
+--- 
+
 # 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Prashant24906&theme=dark)](https://git.io/streak-stats)
 ![](https://streak-stats.demolab.com/?user=Prashant24906&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prashant24906&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
