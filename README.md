@@ -6,13 +6,13 @@ I'm a passionate software engineer currently studying Computer Engineering, buil
 
 ---
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Prashant24906&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Prashant24906&theme=dark)](https://git.io/streak-stats)
 
 --- 
 
 # 📊 GitHub Stats:
 
-![](https://streak-stats.demolab.com/?user=Prashant24906&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=Prashant24906&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prashant24906&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
