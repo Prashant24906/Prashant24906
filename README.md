@@ -6,7 +6,7 @@ I'm a passionate software engineer currently studying Computer Engineering, buil
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Prashant24906)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prashant24906)
 
 --- 
 
